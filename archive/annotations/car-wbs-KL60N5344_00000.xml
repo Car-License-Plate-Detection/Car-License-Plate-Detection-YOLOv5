@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>car-wbs-KL60N5344_00000.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\car-wbs-KL60N5344_00000.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KL60N5344</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>145</ymin>
+			<xmax>151</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

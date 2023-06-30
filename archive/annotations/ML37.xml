@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ML</folder>
+	<filename>ML37.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\ML\ML37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>127</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ML08E9223</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>91</ymin>
+			<xmax>155</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD23.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OR21E1033</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>118</ymin>
+			<xmax>161</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

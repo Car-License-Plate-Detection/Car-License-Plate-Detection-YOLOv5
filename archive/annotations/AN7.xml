@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AN</folder>
+	<filename>AN7.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AN\AN7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AN01H0908</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>366</ymin>
+			<xmax>192</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

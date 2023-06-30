@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>581e2224-3640-4bad-9d90-c2076a9f64f4___617609.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\581e2224-3640-4bad-9d90-c2076a9f64f4___617609.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>452</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA03MX5058</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>161</ymin>
+			<xmax>285</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

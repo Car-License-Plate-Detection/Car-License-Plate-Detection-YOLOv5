@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AR</folder>
+	<filename>AR4.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AR\AR4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AR01C5723</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>270</ymin>
+			<xmax>191</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

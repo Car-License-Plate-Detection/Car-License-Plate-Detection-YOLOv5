@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GA</folder>
+	<filename>GA13.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\GA\GA13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GA07K6090</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>153</ymin>
+			<xmax>217</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

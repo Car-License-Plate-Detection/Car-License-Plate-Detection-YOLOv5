@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>ed9cd3b2-76a2-4cc8-9e4e-76d50ad1ff68___maruti-suzuki-wagon-r-hood-open-view.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\ed9cd3b2-76a2-4cc8-9e4e-76d50ad1ff68___maruti-suzuki-wagon-r-hood-open-view.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA51MJ2143</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>265</ymin>
+			<xmax>226</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

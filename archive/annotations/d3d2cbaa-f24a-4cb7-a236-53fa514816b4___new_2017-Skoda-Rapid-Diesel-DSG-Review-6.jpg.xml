@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>d3d2cbaa-f24a-4cb7-a236-53fa514816b4___new_2017-Skoda-Rapid-Diesel-DSG-Review-6.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\d3d2cbaa-f24a-4cb7-a236-53fa514816b4___new_2017-Skoda-Rapid-Diesel-DSG-Review-6.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20EE045</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>114</ymin>
+			<xmax>378</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

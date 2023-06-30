@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>6f78077e-a3a1-4fb9-89ba-5870d75ccdb8___Innova_Crysta_Car_Euro_number_Plates.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\6f78077e-a3a1-4fb9-89ba-5870d75ccdb8___Innova_Crysta_Car_Euro_number_Plates.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN09CH7770</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>101</ymin>
+			<xmax>281</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

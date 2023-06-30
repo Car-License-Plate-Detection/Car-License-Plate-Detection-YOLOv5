@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>f685e6cf-3a12-42ac-94d7-28cdf129b266___maxresdefault1.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\f685e6cf-3a12-42ac-94d7-28cdf129b266___maxresdefault1.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN66T5836</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>19</ymin>
+			<xmax>415</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

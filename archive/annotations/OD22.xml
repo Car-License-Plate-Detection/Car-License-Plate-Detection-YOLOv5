@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD22.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OR05AC0422</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>51</ymin>
+			<xmax>222</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

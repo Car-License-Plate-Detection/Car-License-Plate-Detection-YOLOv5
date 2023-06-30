@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP45.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP31BL2833</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>231</ymin>
+			<xmax>182</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

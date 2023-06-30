@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CG</folder>
+	<filename>CG17.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\CG\CG17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CG07MA2529</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>122</ymin>
+			<xmax>155</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DL</folder>
+	<filename>DL4.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\DL\DL4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL9CAU5573</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>228</ymin>
+			<xmax>171</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

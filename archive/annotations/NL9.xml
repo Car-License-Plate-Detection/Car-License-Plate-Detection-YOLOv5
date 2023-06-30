@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NL</folder>
+	<filename>NL9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\NL\NL9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>572</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NL02C6709</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>418</ymin>
+			<xmax>167</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>b78553c7-977e-49a2-b3d2-42825d83c8b0___1557297d1474517501-toyota-innova-crysta-official-review-20160920_191445.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\b78553c7-977e-49a2-b3d2-42825d83c8b0___1557297d1474517501-toyota-innova-crysta-official-review-20160920_191445.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KL01KL0KL01</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>199</ymin>
+			<xmax>220</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

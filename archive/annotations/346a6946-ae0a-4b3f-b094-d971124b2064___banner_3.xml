@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>346a6946-ae0a-4b3f-b094-d971124b2064___banner_3.png</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\346a6946-ae0a-4b3f-b094-d971124b2064___banner_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL6CAB123X</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>186</ymin>
+			<xmax>574</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

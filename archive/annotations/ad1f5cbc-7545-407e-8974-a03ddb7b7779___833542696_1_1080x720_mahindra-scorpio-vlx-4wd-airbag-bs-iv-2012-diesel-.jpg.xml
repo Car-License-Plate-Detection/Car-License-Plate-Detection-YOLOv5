@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>ad1f5cbc-7545-407e-8974-a03ddb7b7779___833542696_1_1080x720_mahindra-scorpio-vlx-4wd-airbag-bs-iv-2012-diesel-.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\ad1f5cbc-7545-407e-8974-a03ddb7b7779___833542696_1_1080x720_mahindra-scorpio-vlx-4wd-airbag-bs-iv-2012-diesel-.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN28BA9999</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>420</ymin>
+			<xmax>602</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

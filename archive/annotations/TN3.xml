@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TN</folder>
+	<filename>TN3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TN\TN3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN02AU9295</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>306</ymin>
+			<xmax>184</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

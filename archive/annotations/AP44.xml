@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP44.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP318L4935</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>251</ymin>
+			<xmax>159</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

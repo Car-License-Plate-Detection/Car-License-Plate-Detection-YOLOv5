@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP1.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP05BY7799</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>145</ymin>
+			<xmax>179</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

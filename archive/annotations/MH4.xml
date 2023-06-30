@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MH</folder>
+	<filename>MH4.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MH\MH4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>487</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH12MF6822</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>190</ymin>
+			<xmax>176</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

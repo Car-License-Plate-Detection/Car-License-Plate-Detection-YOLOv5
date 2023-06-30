@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OD02V0007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>82</ymin>
+			<xmax>165</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

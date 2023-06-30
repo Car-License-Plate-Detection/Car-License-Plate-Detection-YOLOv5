@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UP</folder>
+	<filename>UP19.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UP\UP19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP45Q3028</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>214</ymin>
+			<xmax>187</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

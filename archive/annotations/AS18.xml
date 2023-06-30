@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS18.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS04P4549</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>219</ymin>
+			<xmax>148</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>fbb2b3ed-4db1-4d4c-8d4d-4b80b02bfd2a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_01640f5edbbfb564a9ab6486b31d1554_large.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\fbb2b3ed-4db1-4d4c-8d4d-4b80b02bfd2a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_01640f5edbbfb564a9ab6486b31d1554_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ09C84382</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>106</ymin>
+			<xmax>148</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

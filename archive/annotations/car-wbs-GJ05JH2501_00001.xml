@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>car-wbs-GJ05JH2501_00001.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\car-wbs-GJ05JH2501_00001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>404</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ05JH2501</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>297</ymin>
+			<xmax>244</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PB</folder>
+	<filename>PB30.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\PB\PB30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PB08DY4824</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>102</ymin>
+			<xmax>130</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

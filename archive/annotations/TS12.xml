@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TS</folder>
+	<filename>TS12.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TS\TS12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TS09UA7948</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>343</ymin>
+			<xmax>186</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

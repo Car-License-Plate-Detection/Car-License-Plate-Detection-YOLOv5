@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>car-wbs-TN21BC6225_00000.png</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\car-wbs-TN21BC6225_00000.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>221</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN21BC6225</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>120</ymin>
+			<xmax>146</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

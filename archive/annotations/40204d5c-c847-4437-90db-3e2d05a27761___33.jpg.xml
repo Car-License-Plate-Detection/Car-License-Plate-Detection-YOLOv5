@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>40204d5c-c847-4437-90db-3e2d05a27761___33.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\40204d5c-c847-4437-90db-3e2d05a27761___33.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WB07D5106</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>87</ymin>
+			<xmax>325</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

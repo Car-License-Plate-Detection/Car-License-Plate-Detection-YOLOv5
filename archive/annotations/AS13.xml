@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS13.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS25S6858</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>111</ymin>
+			<xmax>170</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

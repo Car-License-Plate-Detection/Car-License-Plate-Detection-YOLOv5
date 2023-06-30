@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UP</folder>
+	<filename>UP23.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UP\UP23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP78ED0449</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>184</ymin>
+			<xmax>165</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

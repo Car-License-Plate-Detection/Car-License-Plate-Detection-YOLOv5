@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP65CM21149</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>196</ymin>
+			<xmax>567</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

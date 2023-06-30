@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>85bd88a0-ac9a-412e-ba44-2a29d209e212___4336_1466054535_9.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\85bd88a0-ac9a-412e-ba44-2a29d209e212___4336_1466054535_9.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>435</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH14TCE4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>189</ymin>
+			<xmax>285</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

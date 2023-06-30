@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ML</folder>
+	<filename>ML29.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\ML\ML29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ML04C4738</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>71</ymin>
+			<xmax>189</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

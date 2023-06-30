@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>car-wbs-GJW115A1138_00000.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\car-wbs-GJW115A1138_00000.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJW115A1138</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>195</ymin>
+			<xmax>338</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

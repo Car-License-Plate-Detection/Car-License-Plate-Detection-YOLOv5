@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>8b5431f9-7d6f-43ed-853d-350ca058ff2a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2014-Nissan-Terrano1.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\8b5431f9-7d6f-43ed-853d-350ca058ff2a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2014-Nissan-Terrano1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>930</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN19TC94</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>392</ymin>
+			<xmax>793</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

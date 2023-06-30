@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>9cd75347-8952-40b1-97c5-d628f1b59590___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Maruti-Swift-Number-Plates-Design.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\9cd75347-8952-40b1-97c5-d628f1b59590___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Maruti-Swift-Number-Plates-Design.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KL10AV6342</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>219</ymin>
+			<xmax>856</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

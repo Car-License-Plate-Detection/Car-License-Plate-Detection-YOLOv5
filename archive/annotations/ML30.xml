@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ML</folder>
+	<filename>ML30.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\ML\ML30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>167</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ML05C5389</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>222</ymin>
+			<xmax>106</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

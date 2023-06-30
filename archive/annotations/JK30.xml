@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JK</folder>
+	<filename>JK30.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JK\JK30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JK02ACB876</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>185</ymin>
+			<xmax>78</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

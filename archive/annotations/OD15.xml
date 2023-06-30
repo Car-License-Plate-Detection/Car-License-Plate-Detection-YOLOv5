@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD15.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>268</width>
+		<height>109</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OD05Y5787</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>56</ymin>
+			<xmax>171</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS7.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS06Q4437</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>217</ymin>
+			<xmax>128</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

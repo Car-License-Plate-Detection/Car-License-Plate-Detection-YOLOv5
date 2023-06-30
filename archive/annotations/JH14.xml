@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JH</folder>
+	<filename>JH14.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JH\JH14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JH10BV1496</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>276</ymin>
+			<xmax>182</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

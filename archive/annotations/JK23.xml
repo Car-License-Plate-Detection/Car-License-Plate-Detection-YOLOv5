@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JK</folder>
+	<filename>JK23.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JK\JK23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JK02CC0447</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>194</ymin>
+			<xmax>159</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

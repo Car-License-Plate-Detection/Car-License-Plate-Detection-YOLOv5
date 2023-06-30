@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>car-wbs-TN74AL5074_00000.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\car-wbs-TN74AL5074_00000.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN74AL5074</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>116</ymin>
+			<xmax>375</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

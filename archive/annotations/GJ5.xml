@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GJ</folder>
+	<filename>GJ5.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\GJ\GJ5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ1SCG7928</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>267</ymin>
+			<xmax>174</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

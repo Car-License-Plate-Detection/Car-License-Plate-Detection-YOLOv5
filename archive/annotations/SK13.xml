@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SK</folder>
+	<filename>SK13.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\SK\SK13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SK05T0338</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>124</ymin>
+			<xmax>172</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

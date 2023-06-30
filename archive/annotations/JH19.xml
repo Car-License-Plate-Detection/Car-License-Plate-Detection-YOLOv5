@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JH</folder>
+	<filename>JH19.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JH\JH19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>132</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JH05Y9636</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>77</ymin>
+			<xmax>191</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

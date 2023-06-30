@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP41.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP5CG6320</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>265</ymin>
+			<xmax>190</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

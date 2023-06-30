@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TR</folder>
+	<filename>TR1.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TR\TR1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TR05B0308</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>94</ymin>
+			<xmax>163</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

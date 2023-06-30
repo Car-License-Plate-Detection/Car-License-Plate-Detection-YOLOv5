@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TS</folder>
+	<filename>TS9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TS\TS9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TS21J8351</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>67</ymin>
+			<xmax>144</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

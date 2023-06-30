@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>868b996f-1f40-47ca-8222-b0f2750d7010___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-left-side-view.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\868b996f-1f40-47ca-8222-b0f2750d7010___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-left-side-view.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>263</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS23M1264</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>130</ymin>
+			<xmax>132</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

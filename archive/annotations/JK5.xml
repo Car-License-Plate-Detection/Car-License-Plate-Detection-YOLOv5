@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JK</folder>
+	<filename>JK5.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JK\JK5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JK05H3594</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>330</ymin>
+			<xmax>167</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

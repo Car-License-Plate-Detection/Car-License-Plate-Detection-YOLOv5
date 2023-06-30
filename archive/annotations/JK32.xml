@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JK</folder>
+	<filename>JK32.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JK\JK32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JK13C4452</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>199</ymin>
+			<xmax>211</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UP</folder>
+	<filename>UP11.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UP\UP11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP53AK1161</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>260</ymin>
+			<xmax>169</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

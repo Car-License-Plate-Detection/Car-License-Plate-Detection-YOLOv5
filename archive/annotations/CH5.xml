@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CH</folder>
+	<filename>CH5.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\CH\CH5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CH01AP4538</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>171</ymin>
+			<xmax>178</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

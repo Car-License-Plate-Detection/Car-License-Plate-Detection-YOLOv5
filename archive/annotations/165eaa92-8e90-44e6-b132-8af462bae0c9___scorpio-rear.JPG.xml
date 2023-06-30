@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>165eaa92-8e90-44e6-b132-8af462bae0c9___scorpio-rear.JPG.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\165eaa92-8e90-44e6-b132-8af462bae0c9___scorpio-rear.JPG.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA01MA6989</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>129</ymin>
+			<xmax>106</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

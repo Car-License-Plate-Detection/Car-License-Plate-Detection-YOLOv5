@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>a95a0d9d-5d40-4abb-bd3e-6c6d94bef5b1___IMG_3310.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\a95a0d9d-5d40-4abb-bd3e-6c6d94bef5b1___IMG_3310.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Devanagri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>133</ymin>
+			<xmax>304</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

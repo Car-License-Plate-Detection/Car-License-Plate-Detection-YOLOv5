@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CG</folder>
+	<filename>CG18.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\CG\CG18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CG07CA7784</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>247</ymin>
+			<xmax>212</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

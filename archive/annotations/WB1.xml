@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WB</folder>
+	<filename>WB1.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\WB\WB1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>245</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WB26T6688</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>111</ymin>
+			<xmax>223</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

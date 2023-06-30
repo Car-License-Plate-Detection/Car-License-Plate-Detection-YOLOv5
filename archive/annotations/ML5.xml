@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ML</folder>
+	<filename>ML5.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\ML\ML5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ML05D0571</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>221</ymin>
+			<xmax>158</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

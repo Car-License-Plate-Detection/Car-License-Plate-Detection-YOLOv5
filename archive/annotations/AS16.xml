@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS16.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS01AL3746</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>240</ymin>
+			<xmax>172</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MP</folder>
+	<filename>MP10.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MP\MP10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MP08CA6293</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>265</ymin>
+			<xmax>184</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

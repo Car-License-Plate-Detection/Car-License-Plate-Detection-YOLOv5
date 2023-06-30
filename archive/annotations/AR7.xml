@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AR</folder>
+	<filename>AR7.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AR\AR7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AR02A7116</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>57</ymin>
+			<xmax>163</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

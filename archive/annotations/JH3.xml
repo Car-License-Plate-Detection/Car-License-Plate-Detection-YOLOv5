@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JH</folder>
+	<filename>JH3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JH\JH3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JH01DB1881</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>131</ymin>
+			<xmax>167</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

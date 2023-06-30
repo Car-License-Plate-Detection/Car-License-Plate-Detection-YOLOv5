@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD6.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OR08F1001</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>330</ymin>
+			<xmax>177</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

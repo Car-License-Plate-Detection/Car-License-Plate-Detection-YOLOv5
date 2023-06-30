@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JK</folder>
+	<filename>JK14.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JK\JK14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JK11D8143</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>372</ymin>
+			<xmax>179</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

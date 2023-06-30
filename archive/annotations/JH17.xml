@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JH</folder>
+	<filename>JH17.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JH\JH17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JH01AR2011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>143</ymin>
+			<xmax>161</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UP</folder>
+	<filename>UP12.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UP\UP12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP14CV7920</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>286</ymin>
+			<xmax>175</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

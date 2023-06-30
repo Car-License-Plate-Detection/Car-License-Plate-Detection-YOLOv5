@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>97846647-16f1-4ee2-b260-60774a21cc74___new_Maruti-Suzuki-Swift-Dzire-1.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\97846647-16f1-4ee2-b260-60774a21cc74___new_Maruti-Suzuki-Swift-Dzire-1.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR26BP3543</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>145</ymin>
+			<xmax>253</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

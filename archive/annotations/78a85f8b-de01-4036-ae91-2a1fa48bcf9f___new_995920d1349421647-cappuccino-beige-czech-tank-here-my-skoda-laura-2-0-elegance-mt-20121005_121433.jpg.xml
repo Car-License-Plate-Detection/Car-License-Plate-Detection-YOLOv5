@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>78a85f8b-de01-4036-ae91-2a1fa48bcf9f___new_995920d1349421647-cappuccino-beige-czech-tank-here-my-skoda-laura-2-0-elegance-mt-20121005_121433.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\78a85f8b-de01-4036-ae91-2a1fa48bcf9f___new_995920d1349421647-cappuccino-beige-czech-tank-here-my-skoda-laura-2-0-elegance-mt-20121005_121433.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA29Z999</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>221</ymin>
+			<xmax>336</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

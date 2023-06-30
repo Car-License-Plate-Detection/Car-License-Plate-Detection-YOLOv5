@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UP</folder>
+	<filename>UP14.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UP\UP14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP16BD4866</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>301</ymin>
+			<xmax>159</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

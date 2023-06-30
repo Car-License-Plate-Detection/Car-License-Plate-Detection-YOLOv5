@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH06AW8929</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>265</ymin>
+			<xmax>161</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DL</folder>
+	<filename>DL25.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\DL\DL25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL9C0S1537</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>148</ymin>
+			<xmax>183</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

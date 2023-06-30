@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KL</folder>
+	<filename>KL15.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\KL\KL15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KL43G6619</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>225</ymin>
+			<xmax>223</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

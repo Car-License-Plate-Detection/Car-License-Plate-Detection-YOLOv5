@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>4b669e6d-4eec-4f46-b502-f64ee0175947___new_1.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\4b669e6d-4eec-4f46-b502-f64ee0175947___new_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>287</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH14TC206AN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>54</ymin>
+			<xmax>436</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>bdad5f66-70ad-4241-9a62-bba1123c3486___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_1447945d1449508546t-my-nissan-terrano-85-ps-_img_000000_000000.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\bdad5f66-70ad-4241-9a62-bba1123c3486___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_1447945d1449508546t-my-nissan-terrano-85-ps-_img_000000_000000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA05MQ92</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>276</ymin>
+			<xmax>458</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

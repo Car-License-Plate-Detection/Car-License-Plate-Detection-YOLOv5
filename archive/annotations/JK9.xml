@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JK</folder>
+	<filename>JK9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JK\JK9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JK02CD0461</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>221</ymin>
+			<xmax>159</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>399.jpg</filename>
+	<path>C:\Users\am\Desktop\sanaz\car\399.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>191</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>237</ymin>
+			<xmax>116</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

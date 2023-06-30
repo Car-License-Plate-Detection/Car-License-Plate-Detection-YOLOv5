@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>b176b317-68a9-4c38-ac39-55e5244c9b9c___60653.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\b176b317-68a9-4c38-ac39-55e5244c9b9c___60653.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>927</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH02AJ344</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>105</ymin>
+			<xmax>785</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

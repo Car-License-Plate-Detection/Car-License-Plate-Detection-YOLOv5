@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>f16274c4-0d3d-4c85-9dcc-5ac71734b281___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-1ofla74.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\f16274c4-0d3d-4c85-9dcc-5ac71734b281___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-1ofla74.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KL7BZ99</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>214</ymin>
+			<xmax>564</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

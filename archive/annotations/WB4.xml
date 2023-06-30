@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WB</folder>
+	<filename>WB4.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\WB\WB4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WB02X8795</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>268</ymin>
+			<xmax>191</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

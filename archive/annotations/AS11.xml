@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS11.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>231</width>
+		<height>143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS01DS7523</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>94</ymin>
+			<xmax>120</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

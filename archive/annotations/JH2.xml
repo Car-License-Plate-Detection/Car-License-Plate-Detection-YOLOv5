@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JH</folder>
+	<filename>JH2.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\JH\JH2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JH01AM0100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>268</ymin>
+			<xmax>180</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

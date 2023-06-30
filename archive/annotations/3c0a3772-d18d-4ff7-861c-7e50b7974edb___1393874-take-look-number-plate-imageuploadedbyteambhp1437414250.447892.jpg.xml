@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>3c0a3772-d18d-4ff7-861c-7e50b7974edb___1393874-take-look-number-plate-imageuploadedbyteambhp1437414250.447892.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\3c0a3772-d18d-4ff7-861c-7e50b7974edb___1393874-take-look-number-plate-imageuploadedbyteambhp1437414250.447892.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJW115A1138</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>195</ymin>
+			<xmax>338</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

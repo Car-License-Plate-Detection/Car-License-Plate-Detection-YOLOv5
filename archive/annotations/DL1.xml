@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DL</folder>
+	<filename>DL1.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\DL\DL1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL6CJ8404</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>235</ymin>
+			<xmax>176</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

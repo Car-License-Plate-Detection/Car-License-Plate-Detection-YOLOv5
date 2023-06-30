@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>7616cb19-df24-4d29-b679-5252391a547f___Skoda-Laura-rear.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\7616cb19-df24-4d29-b679-5252391a547f___Skoda-Laura-rear.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH01AR5274</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>260</ymin>
+			<xmax>479</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

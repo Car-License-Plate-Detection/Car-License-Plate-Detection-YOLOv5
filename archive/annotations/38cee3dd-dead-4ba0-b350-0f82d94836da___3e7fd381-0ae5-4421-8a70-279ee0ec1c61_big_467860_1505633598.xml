@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>38cee3dd-dead-4ba0-b350-0f82d94836da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_big_467860_1505633598.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\38cee3dd-dead-4ba0-b350-0f82d94836da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_big_467860_1505633598.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR26TC7303</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>340</ymin>
+			<xmax>409</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

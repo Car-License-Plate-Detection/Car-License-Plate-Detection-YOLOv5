@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ML</folder>
+	<filename>ML27.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\ML\ML27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ML05K9494</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>210</ymin>
+			<xmax>179</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MP</folder>
+	<filename>MP9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MP\MP9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>471</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MP45G0872</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>216</ymin>
+			<xmax>248</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

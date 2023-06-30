@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>351a22eb-bf0a-44d6-8b6d-5ffca753c261___bike-number-plate-500x500.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\351a22eb-bf0a-44d6-8b6d-5ffca753c261___bike-number-plate-500x500.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20EU9991</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>113</ymin>
+			<xmax>258</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

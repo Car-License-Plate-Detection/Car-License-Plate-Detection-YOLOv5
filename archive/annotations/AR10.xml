@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AR</folder>
+	<filename>AR10.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AR\AR10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AR152019</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>171</ymin>
+			<xmax>88</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

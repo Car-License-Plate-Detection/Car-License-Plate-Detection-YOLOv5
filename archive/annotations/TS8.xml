@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TS</folder>
+	<filename>TS8.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TS\TS8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TS09EG6565</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>339</ymin>
+			<xmax>179</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

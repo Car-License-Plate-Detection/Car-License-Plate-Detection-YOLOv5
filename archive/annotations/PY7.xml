@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PY</folder>
+	<filename>PY7.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\PY\PY7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PY036993</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>312</ymin>
+			<xmax>188</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HR</folder>
+	<filename>HR4.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\HR\HR4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR10AE9885</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>217</ymin>
+			<xmax>186</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

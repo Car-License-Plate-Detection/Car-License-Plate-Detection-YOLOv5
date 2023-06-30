@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>bcdc8b42-5dd4-48e2-8104-706440524bfe___hqdefault0.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\bcdc8b42-5dd4-48e2-8104-706440524bfe___hqdefault0.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TS08ER1643</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>63</ymin>
+			<xmax>465</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

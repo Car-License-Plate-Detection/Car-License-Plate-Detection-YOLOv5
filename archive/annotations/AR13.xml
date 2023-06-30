@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AR</folder>
+	<filename>AR13.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AR\AR13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>119</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AR200692</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>35</ymin>
+			<xmax>180</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

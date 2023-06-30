@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP17.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP31TP2282</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>340</ymin>
+			<xmax>180</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

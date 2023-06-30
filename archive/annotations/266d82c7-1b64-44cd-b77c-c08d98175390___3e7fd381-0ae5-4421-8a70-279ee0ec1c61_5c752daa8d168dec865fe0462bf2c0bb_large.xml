@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>266d82c7-1b64-44cd-b77c-c08d98175390___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_5c752daa8d168dec865fe0462bf2c0bb_large.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\266d82c7-1b64-44cd-b77c-c08d98175390___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_5c752daa8d168dec865fe0462bf2c0bb_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>476</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH21V9926</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>360</ymin>
+			<xmax>287</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

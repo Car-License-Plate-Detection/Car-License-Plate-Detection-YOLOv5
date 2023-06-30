@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS23E0596</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>139</ymin>
+			<xmax>122</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

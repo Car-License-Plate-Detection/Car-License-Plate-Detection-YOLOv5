@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UP</folder>
+	<filename>UP25.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UP\UP25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>593</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP32BF3577</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>302</ymin>
+			<xmax>187</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

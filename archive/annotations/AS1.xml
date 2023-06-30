@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS1.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS23H2866</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>251</ymin>
+			<xmax>216</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NL</folder>
+	<filename>NL4.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\NL\NL4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NL02C3947</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>387</ymin>
+			<xmax>233</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

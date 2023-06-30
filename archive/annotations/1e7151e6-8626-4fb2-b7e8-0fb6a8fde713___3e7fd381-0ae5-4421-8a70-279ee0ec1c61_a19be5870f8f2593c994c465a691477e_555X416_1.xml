@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1e7151e6-8626-4fb2-b7e8-0fb6a8fde713___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_a19be5870f8f2593c994c465a691477e_555X416_1.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\1e7151e6-8626-4fb2-b7e8-0fb6a8fde713___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_a19be5870f8f2593c994c465a691477e_555X416_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>555</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ27TC0530</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>225</ymin>
+			<xmax>322</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>72894c2b-5999-4d87-baa4-e3507548e011___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_847602356_1_1080x720_nissan-terrano-xl-d-2014-diesel-bilaspur.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\72894c2b-5999-4d87-baa4-e3507548e011___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_847602356_1_1080x720_nissan-terrano-xl-d-2014-diesel-bilaspur.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CG10S0650</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>696</xmin>
+			<ymin>366</ymin>
+			<xmax>802</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

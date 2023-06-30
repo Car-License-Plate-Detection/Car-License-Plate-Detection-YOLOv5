@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA05HS4495</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>46</ymin>
+			<xmax>702</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

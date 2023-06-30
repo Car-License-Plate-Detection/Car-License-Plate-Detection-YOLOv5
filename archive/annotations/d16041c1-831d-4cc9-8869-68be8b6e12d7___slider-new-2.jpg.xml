@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>d16041c1-831d-4cc9-8869-68be8b6e12d7___slider-new-2.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\d16041c1-831d-4cc9-8869-68be8b6e12d7___slider-new-2.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1266</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KL12G7531</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>809</xmin>
+			<ymin>240</ymin>
+			<xmax>1031</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

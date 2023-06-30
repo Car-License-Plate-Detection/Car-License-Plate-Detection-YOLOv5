@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RJ</folder>
+	<filename>RJ5.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\RJ\RJ5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>287</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ14CF5807</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>200</ymin>
+			<xmax>180</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

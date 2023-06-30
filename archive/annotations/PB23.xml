@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PB</folder>
+	<filename>PB23.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\PB\PB23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PB02CC7299</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>112</ymin>
+			<xmax>163</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

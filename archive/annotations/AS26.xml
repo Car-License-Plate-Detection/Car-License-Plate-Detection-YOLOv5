@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS26.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS06Z0841</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>135</ymin>
+			<xmax>168</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

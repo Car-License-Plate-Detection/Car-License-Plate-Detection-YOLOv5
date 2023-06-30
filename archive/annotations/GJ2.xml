@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GJ</folder>
+	<filename>GJ2.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\GJ\GJ2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ15CB3980</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>185</ymin>
+			<xmax>176</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

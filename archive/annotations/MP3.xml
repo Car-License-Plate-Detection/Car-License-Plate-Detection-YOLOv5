@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MP</folder>
+	<filename>MP3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MP\MP3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MP65C0654</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>206</ymin>
+			<xmax>167</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

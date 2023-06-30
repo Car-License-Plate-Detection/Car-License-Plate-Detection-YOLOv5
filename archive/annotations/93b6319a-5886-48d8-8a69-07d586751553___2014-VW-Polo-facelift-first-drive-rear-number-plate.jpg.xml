@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>93b6319a-5886-48d8-8a69-07d586751553___2014-VW-Polo-facelift-first-drive-rear-number-plate.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\93b6319a-5886-48d8-8a69-07d586751553___2014-VW-Polo-facelift-first-drive-rear-number-plate.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN02TC0143</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>291</ymin>
+			<xmax>1045</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

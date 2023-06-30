@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>504e7c29-e1dc-48c9-ace6-738cf934e368___2017-skoda-octavia-rs-12.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\504e7c29-e1dc-48c9-ace6-738cf934e368___2017-skoda-octavia-rs-12.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>269</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20TC640B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>184</ymin>
+			<xmax>424</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

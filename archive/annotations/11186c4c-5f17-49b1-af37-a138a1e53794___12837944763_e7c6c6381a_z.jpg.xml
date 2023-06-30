@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>11186c4c-5f17-49b1-af37-a138a1e53794___12837944763_e7c6c6381a_z.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\11186c4c-5f17-49b1-af37-a138a1e53794___12837944763_e7c6c6381a_z.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>435</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20CS1941</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>190</ymin>
+			<xmax>432</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

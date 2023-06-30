@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>aa221c22-6600-4f05-9eb9-3676ef0b22e0___69590d1226627898-high-security-number-plates-india-d1.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\aa221c22-6600-4f05-9eb9-3676ef0b22e0___69590d1226627898-high-security-number-plates-india-d1.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH12DE1433</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>255</ymin>
+			<xmax>900</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

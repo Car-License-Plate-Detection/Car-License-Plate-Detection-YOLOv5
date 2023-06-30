@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KA</folder>
+	<filename>KA11.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\KA\KA11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA04MK0368</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>151</ymin>
+			<xmax>167</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

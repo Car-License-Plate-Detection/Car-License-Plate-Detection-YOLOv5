@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>dfafd4ef-5592-41d9-9cbb-fa6a4e03831e___IMG_9082.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\dfafd4ef-5592-41d9-9cbb-fa6a4e03831e___IMG_9082.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP80CR00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>88</ymin>
+			<xmax>609</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

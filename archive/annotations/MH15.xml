@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MH</folder>
+	<filename>MH15.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MH\MH15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH05EQ4066</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>232</ymin>
+			<xmax>170</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

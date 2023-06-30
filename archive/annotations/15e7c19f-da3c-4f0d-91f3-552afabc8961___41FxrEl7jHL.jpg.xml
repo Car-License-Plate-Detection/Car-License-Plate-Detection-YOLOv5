@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>15e7c19f-da3c-4f0d-91f3-552afabc8961___41FxrEl7jHL.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\15e7c19f-da3c-4f0d-91f3-552afabc8961___41FxrEl7jHL.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL10CG4693</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>99</ymin>
+			<xmax>368</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

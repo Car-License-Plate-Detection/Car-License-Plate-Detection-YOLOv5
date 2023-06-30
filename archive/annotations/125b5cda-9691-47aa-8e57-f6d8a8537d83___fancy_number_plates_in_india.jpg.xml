@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>125b5cda-9691-47aa-8e57-f6d8a8537d83___fancy_number_plates_in_india.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\125b5cda-9691-47aa-8e57-f6d8a8537d83___fancy_number_plates_in_india.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN66U8215</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>87</ymin>
+			<xmax>401</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HP</folder>
+	<filename>HP9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\HP\HP9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HP23A6365</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>194</ymin>
+			<xmax>160</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

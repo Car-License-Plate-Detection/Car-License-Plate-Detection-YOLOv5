@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>af270103-6ed4-4260-9d01-b8be2e2b9af1___skoda-rapid-1.5-tdi-dsg-review.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\af270103-6ed4-4260-9d01-b8be2e2b9af1___skoda-rapid-1.5-tdi-dsg-review.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20DJ0419</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>154</ymin>
+			<xmax>249</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

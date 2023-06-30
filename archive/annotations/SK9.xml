@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SK</folder>
+	<filename>SK9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\SK\SK9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SK01T8791</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>306</ymin>
+			<xmax>190</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

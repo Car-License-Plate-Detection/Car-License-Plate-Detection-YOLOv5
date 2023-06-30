@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HP</folder>
+	<filename>HP15.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\HP\HP15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HP22E8000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>156</ymin>
+			<xmax>170</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

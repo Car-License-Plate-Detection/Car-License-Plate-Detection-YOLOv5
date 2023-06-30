@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>88294212-f11c-46a7-a91a-04c9da19efa6___DSC_8221-L.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\88294212-f11c-46a7-a91a-04c9da19efa6___DSC_8221-L.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WB74X7605</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>194</ymin>
+			<xmax>316</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HR</folder>
+	<filename>HR9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\HR\HR9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR29AS0015</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>210</ymin>
+			<xmax>168</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

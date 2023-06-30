@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD20.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OD01Q4668</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>121</ymin>
+			<xmax>191</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

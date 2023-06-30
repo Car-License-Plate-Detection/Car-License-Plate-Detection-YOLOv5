@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>9f7c7dce-f9c9-4c95-a053-8f16e6e99466___new_new-maruti-alto-k10-2_625x300_41414071192.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\9f7c7dce-f9c9-4c95-a053-8f16e6e99466___new_new-maruti-alto-k10-2_625x300_41414071192.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>424</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR26CT6702</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>164</ymin>
+			<xmax>315</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>6f680368-4a15-464a-b314-7f9cd0f3db11___91852d1232463201-high-security-registration-plates-hsrp-india-num1.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\6f680368-4a15-464a-b314-7f9cd0f3db11___91852d1232463201-high-security-registration-plates-hsrp-india-num1.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>441</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KL01AU585</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>167</ymin>
+			<xmax>351</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

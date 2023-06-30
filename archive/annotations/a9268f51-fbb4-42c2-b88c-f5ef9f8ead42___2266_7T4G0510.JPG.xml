@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>a9268f51-fbb4-42c2-b88c-f5ef9f8ead42___2266_7T4G0510.JPG.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\a9268f51-fbb4-42c2-b88c-f5ef9f8ead42___2266_7T4G0510.JPG.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR99EX6037</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>251</ymin>
+			<xmax>344</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UK</folder>
+	<filename>UK2.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UK\UK2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UK06CB4595</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>415</ymin>
+			<xmax>155</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

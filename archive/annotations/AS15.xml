@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS15.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS01BF9673</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>274</ymin>
+			<xmax>177</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

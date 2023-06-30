@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UK</folder>
+	<filename>UK10.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\UK\UK10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UK07AA2432</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>250</ymin>
+			<xmax>168</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GA</folder>
+	<filename>GA6.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\GA\GA6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GA02J2129</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>343</ymin>
+			<xmax>185</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

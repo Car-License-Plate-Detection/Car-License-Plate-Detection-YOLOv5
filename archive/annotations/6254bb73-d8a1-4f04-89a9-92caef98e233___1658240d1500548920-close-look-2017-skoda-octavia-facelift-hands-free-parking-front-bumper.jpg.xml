@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>6254bb73-d8a1-4f04-89a9-92caef98e233___1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\6254bb73-d8a1-4f04-89a9-92caef98e233___1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3720</width>
+		<height>2472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20EE7597</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1206</xmin>
+			<ymin>975</ymin>
+			<xmax>2492</xmax>
+			<ymax>1287</ymax>
+		</bndbox>
+	</object>
+</annotation>

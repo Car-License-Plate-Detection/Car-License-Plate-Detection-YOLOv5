@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GJ</folder>
+	<filename>GJ18.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\GJ\GJ18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ01RN4259</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>150</ymin>
+			<xmax>176</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

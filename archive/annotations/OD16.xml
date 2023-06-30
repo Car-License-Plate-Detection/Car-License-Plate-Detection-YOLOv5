@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD16.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OR14U8730</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>331</ymin>
+			<xmax>171</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

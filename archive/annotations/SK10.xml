@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SK</folder>
+	<filename>SK10.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\SK\SK10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SK01PB5004</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>191</ymin>
+			<xmax>127</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

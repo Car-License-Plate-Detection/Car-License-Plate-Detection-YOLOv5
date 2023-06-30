@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP40.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP04BA4464</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>233</ymin>
+			<xmax>169</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

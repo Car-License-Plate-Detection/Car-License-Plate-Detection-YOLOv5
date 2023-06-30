@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MH</folder>
+	<filename>MH2.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MH\MH2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>209</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH48AK2798</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>165</ymin>
+			<xmax>157</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

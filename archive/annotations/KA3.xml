@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KA</folder>
+	<filename>KA3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\KA\KA3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA06C9590</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>236</ymin>
+			<xmax>144</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

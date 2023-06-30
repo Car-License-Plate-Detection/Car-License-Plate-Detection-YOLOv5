@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NL</folder>
+	<filename>NL5.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\NL\NL5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NL07CA7631</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>360</ymin>
+			<xmax>122</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

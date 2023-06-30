@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>ae0bb069-0e7e-412a-9473-e8e0d4041cbc___135718d1400912281-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-_mg_3000comp.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\ae0bb069-0e7e-412a-9473-e8e0d4041cbc___135718d1400912281-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-_mg_3000comp.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN74F3339</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>197</ymin>
+			<xmax>423</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

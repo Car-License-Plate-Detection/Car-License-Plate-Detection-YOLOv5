@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MN</folder>
+	<filename>MN3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MN\MN3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MN01G0297</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>175</ymin>
+			<xmax>150</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

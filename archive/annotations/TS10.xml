@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TS</folder>
+	<filename>TS10.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TS\TS10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TS11EQ2914</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>300</ymin>
+			<xmax>182</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>b266759c-f9e9-47c1-9042-4c7aef7d441d___1711769d1514801394t-toyota-innova-crysta-2-4-gx-ownership-review-edit-10-000-km-service-done-vs.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\b266759c-f9e9-47c1-9042-4c7aef7d441d___1711769d1514801394t-toyota-innova-crysta-2-4-gx-ownership-review-edit-10-000-km-service-done-vs.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA21M5519</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>122</ymin>
+			<xmax>185</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

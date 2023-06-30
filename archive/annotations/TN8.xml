@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TN</folder>
+	<filename>TN8.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TN\TN8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN07AP0659</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>71</ymin>
+			<xmax>171</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

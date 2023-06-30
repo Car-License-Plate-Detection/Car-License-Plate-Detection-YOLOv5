@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>6578ae52-8431-4854-ba24-756888891756___1496414894_2017-maruti-suzuki-ciaz.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\6578ae52-8431-4854-ba24-756888891756___1496414894_2017-maruti-suzuki-ciaz.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>624</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR26TC7099</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>170</ymin>
+			<xmax>426</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

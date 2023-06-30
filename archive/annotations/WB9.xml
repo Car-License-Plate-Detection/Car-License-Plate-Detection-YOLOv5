@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WB</folder>
+	<filename>WB9.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\WB\WB9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WB02AA5580</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>204</ymin>
+			<xmax>152</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

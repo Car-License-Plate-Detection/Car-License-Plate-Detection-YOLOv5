@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newCar</folder>
+	<filename>422.jpg</filename>
+	<path>C:\Users\am\Desktop\sanaz\newCar\422.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>234</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>219</ymin>
+			<xmax>187</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

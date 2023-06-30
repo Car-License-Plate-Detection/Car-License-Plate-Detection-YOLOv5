@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MH</folder>
+	<filename>MH19.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MH\MH19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>591</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH12KN8366</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>323</ymin>
+			<xmax>183</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

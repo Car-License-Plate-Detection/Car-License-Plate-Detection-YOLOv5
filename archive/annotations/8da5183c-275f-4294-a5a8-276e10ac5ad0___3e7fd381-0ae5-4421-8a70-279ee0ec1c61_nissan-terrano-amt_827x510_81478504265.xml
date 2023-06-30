@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>8da5183c-275f-4294-a5a8-276e10ac5ad0___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-amt_827x510_81478504265.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\8da5183c-275f-4294-a5a8-276e10ac5ad0___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-amt_827x510_81478504265.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL14CTC0153</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>292</ymin>
+			<xmax>551</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

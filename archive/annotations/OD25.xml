@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD25.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OD02AP3010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>279</ymin>
+			<xmax>184</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

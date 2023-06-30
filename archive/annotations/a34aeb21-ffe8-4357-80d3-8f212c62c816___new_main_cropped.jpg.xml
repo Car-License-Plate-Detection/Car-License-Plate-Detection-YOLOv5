@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>a34aeb21-ffe8-4357-80d3-8f212c62c816___new_main_cropped.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\a34aeb21-ffe8-4357-80d3-8f212c62c816___new_main_cropped.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP16TC1366</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>110</ymin>
+			<xmax>347</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

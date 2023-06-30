@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>7070d6ac-5425-4d33-a78e-a48c62d0fac5___Honda-Jazz-Number-Plate-Designs.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\7070d6ac-5425-4d33-a78e-a48c62d0fac5___Honda-Jazz-Number-Plate-Designs.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN42R2697</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>134</ymin>
+			<xmax>546</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

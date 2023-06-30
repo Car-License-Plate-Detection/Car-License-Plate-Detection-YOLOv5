@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg - Copy.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg - Copy.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>78</width>
+		<height>223</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL758Y1790</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>97</ymin>
+			<xmax>58</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

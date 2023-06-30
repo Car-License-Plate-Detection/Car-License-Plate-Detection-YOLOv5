@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>84969111-2ec3-4914-b3bb-da5aaac701e7___1.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\84969111-2ec3-4914-b3bb-da5aaac701e7___1.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20TC830C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>229</ymin>
+			<xmax>106</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

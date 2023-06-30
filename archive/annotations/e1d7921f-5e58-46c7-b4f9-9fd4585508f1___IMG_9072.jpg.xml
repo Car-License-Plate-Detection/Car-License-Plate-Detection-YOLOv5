@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>e1d7921f-5e58-46c7-b4f9-9fd4585508f1___IMG_9072.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\e1d7921f-5e58-46c7-b4f9-9fd4585508f1___IMG_9072.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ1KF1111</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>262</ymin>
+			<xmax>640</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

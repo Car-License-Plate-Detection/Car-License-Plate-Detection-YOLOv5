@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TN</folder>
+	<filename>TN6.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\TN\TN6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN19F0816</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>88</ymin>
+			<xmax>191</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

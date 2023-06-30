@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD</folder>
+	<filename>OD18.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\OD\OD18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OD22J9911</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>124</ymin>
+			<xmax>131</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

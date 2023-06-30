@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WB</folder>
+	<filename>WB23.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\WB\WB23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WB20AG9041</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>143</ymin>
+			<xmax>180</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

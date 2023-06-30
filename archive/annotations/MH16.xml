@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MH</folder>
+	<filename>MH16.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MH\MH16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH12GR862</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>245</ymin>
+			<xmax>171</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

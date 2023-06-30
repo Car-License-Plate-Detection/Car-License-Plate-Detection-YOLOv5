@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NL</folder>
+	<filename>NL3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\NL\NL3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NL078440</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>144</ymin>
+			<xmax>197</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS6.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>204</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS12S6951</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>154</ymin>
+			<xmax>68</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>e706cec0-783a-42bc-b934-64788481cd92___4-Innova-After-2.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\e706cec0-783a-42bc-b934-64788481cd92___4-Innova-After-2.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH04DW8351</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>177</ymin>
+			<xmax>323</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

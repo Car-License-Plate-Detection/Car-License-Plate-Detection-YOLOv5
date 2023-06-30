@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>b3e82163-400b-4211-bb99-a5b53fb13a25___new_IMG_8883.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\b3e82163-400b-4211-bb99-a5b53fb13a25___new_IMG_8883.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>229</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH20BY3665</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>52</ymin>
+			<xmax>180</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

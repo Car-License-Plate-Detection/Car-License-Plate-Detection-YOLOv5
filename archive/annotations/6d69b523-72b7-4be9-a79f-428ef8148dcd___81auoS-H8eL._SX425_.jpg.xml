@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>6d69b523-72b7-4be9-a79f-428ef8148dcd___81auoS-H8eL._SX425_.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\6d69b523-72b7-4be9-a79f-428ef8148dcd___81auoS-H8eL._SX425_.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ01MW7581</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>7</ymin>
+			<xmax>369</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

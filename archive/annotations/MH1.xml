@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MH</folder>
+	<filename>MH1.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\MH\MH1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH06AB8620</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>126</ymin>
+			<xmax>178</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

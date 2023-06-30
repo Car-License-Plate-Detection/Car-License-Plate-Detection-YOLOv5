@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GJ</folder>
+	<filename>GJ21.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\GJ\GJ21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ12CG2526</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>193</ymin>
+			<xmax>176</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

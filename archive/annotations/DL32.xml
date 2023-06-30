@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DL</folder>
+	<filename>DL32.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\DL\DL32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL2CAR0108</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>151</ymin>
+			<xmax>167</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

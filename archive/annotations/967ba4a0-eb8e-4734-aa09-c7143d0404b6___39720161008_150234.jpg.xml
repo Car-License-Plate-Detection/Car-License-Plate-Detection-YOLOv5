@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>967ba4a0-eb8e-4734-aa09-c7143d0404b6___39720161008_150234.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\967ba4a0-eb8e-4734-aa09-c7143d0404b6___39720161008_150234.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH02BM5048</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>208</ymin>
+			<xmax>317</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

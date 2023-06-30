@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>13ffaad4-a186-46bd-ae5d-924d1c8d7c50___maruti-suzuki-Baleno-RS-pics-48.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\13ffaad4-a186-46bd-ae5d-924d1c8d7c50___maruti-suzuki-Baleno-RS-pics-48.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR26DA5443</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>329</ymin>
+			<xmax>734</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

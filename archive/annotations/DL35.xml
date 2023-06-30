@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DL</folder>
+	<filename>DL35.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\DL\DL35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL3CBS5881</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>306</ymin>
+			<xmax>155</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

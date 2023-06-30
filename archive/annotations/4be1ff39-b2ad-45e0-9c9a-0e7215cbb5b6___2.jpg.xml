@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>4be1ff39-b2ad-45e0-9c9a-0e7215cbb5b6___2.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\4be1ff39-b2ad-45e0-9c9a-0e7215cbb5b6___2.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH12DE1433</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>81</ymin>
+			<xmax>300</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

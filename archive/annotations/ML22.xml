@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ML</folder>
+	<filename>ML22.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\ML\ML22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ML1032811</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>196</ymin>
+			<xmax>163</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

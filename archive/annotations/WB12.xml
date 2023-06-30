@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WB</folder>
+	<filename>WB12.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\WB\WB12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WB26S5093</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>166</ymin>
+			<xmax>184</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>0b77e2a4-34db-486c-8d87-46186f5b7b88___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-diesel-review-motorzest-04.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\0b77e2a4-34db-486c-8d87-46186f5b7b88___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-diesel-review-motorzest-04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN21AT0479</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>308</ymin>
+			<xmax>500</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

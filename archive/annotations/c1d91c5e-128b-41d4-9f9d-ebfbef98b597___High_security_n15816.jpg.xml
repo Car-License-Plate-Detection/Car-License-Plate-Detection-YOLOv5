@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>c1d91c5e-128b-41d4-9f9d-ebfbef98b597___High_security_n15816.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\c1d91c5e-128b-41d4-9f9d-ebfbef98b597___High_security_n15816.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH01AE8017</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>141</ymin>
+			<xmax>436</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

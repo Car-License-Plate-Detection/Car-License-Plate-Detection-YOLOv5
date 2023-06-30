@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>5345a45f-8d1b-4984-b5ee-a69fc4cbda6a___new__bd7f7862-d727-11e7-ad30-e18a56154311.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC ki padhai\Project\Indian_ANPR_090921\v3andv4\image\5345a45f-8d1b-4984-b5ee-a69fc4cbda6a___new__bd7f7862-d727-11e7-ad30-e18a56154311.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MH15TC554</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>174</ymin>
+			<xmax>434</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

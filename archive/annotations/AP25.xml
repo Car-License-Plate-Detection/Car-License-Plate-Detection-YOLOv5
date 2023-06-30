@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP25.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP26AM1260</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>250</ymin>
+			<xmax>173</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

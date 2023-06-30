@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AP</folder>
+	<filename>AP20.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AP\AP20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP04AS8753</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>261</ymin>
+			<xmax>165</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

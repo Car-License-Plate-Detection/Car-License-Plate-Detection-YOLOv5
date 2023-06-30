@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AS</folder>
+	<filename>AS23.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\AS\AS23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AS19D9919</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>76</ymin>
+			<xmax>179</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

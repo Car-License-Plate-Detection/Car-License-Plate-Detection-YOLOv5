@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>a2f87691-b9f5-4274-ac5a-8764e9ba282c___1571669d1477648169-your-favourite-number-plate-font-13.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\a2f87691-b9f5-4274-ac5a-8764e9ba282c___1571669d1477648169-your-favourite-number-plate-font-13.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1512</width>
+		<height>825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ05JD9759</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>209</ymin>
+			<xmax>1398</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

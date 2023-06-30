@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CG</folder>
+	<filename>CG4.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\CG\CG4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CG04HV7009</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>140</ymin>
+			<xmax>175</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

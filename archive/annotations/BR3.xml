@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BR</folder>
+	<filename>BR3.jpg</filename>
+	<path>C:\Users\Siri\Downloads\OLX_images\BR\BR3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BR01AZ6290</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>213</ymin>
+			<xmax>178</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

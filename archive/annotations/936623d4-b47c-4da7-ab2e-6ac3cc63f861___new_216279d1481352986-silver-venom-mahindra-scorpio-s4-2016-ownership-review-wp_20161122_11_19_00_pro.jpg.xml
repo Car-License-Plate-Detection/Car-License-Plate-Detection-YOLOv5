@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>936623d4-b47c-4da7-ab2e-6ac3cc63f861___new_216279d1481352986-silver-venom-mahindra-scorpio-s4-2016-ownership-review-wp_20161122_11_19_00_pro.jpg.jpeg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\936623d4-b47c-4da7-ab2e-6ac3cc63f861___new_216279d1481352986-silver-venom-mahindra-scorpio-s4-2016-ownership-review-wp_20161122_11_19_00_pro.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN74AL5074</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>117</ymin>
+			<xmax>375</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

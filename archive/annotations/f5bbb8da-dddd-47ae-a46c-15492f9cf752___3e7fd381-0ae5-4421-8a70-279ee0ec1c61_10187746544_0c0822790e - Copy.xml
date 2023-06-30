@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>f5bbb8da-dddd-47ae-a46c-15492f9cf752___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_10187746544_0c0822790e - Copy.jpg</filename>
+	<path>C:\Users\Siri\Desktop\BARC_ki_padhai\Project\Indian_ANPR_090921\v3andv4\image\f5bbb8da-dddd-47ae-a46c-15492f9cf752___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_10187746544_0c0822790e - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>235</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TN21AU7234</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>185</ymin>
+			<xmax>155</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>
