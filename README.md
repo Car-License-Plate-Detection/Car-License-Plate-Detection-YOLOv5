@@ -22,9 +22,6 @@
 <img src="./images/2.png" width="35%" height="40%"/>
 <img src="./images/2-3.png" width="80%" height="100%"/>
 
-* Object Detection With YOLO
-  * We will select and train YOLOv5s
-
 <p align="left">
  <img src="./images/2-4.png" width="50%" height="120%"/>
  <img src="./images/2-2.png" width="47%" height="100%"/>
