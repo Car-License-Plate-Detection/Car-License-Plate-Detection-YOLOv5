@@ -1,5 +1,11 @@
 <img src="./images/3.jpg" width="100%" height="100%"/>
 
+## People
+
+* [Yeongjin Kim](https://github.com/kyj950514 "김영진")
+* [Hyeonsu Kim](https://github.com/haen-su "김현수")
+* [Chaeri Lim](https://github.com/ch9eri "임채리")
+
 ## Language / IDE
 
 * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
