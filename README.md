@@ -19,7 +19,7 @@
 
 ## Model
 
-* YOLO (You Look Only Once)
+* YOLO (You Only Look Once)
   * View the entire image only once
   * Region proposal, Feature extraction, Classification, Bbox regression
   * Because it learns surrounding information and processes the entire image, less background error
