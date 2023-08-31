@@ -17,6 +17,16 @@
 * <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>
 * <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
+## Dataset
+
+* 2140 images
+* 2140 xml files
+
+<p align="left">
+ <img src="./images/N187.jpeg" width="40%" height="40%"/> 
+ <img src="./images/KA11.jpg" width="40%" height="40%"/>
+</p>
+
 ## Model
 
 * YOLO (You Only Look Once)
@@ -33,16 +43,6 @@
  <img src="./images/2-2.png" width="47%" height="100%"/>
  <img src="./images/2-1.png" width="75%" height="40%"/>
  </p>
-
-## Dataset
-
-* 2140 images
-* 2140 xml files
-
-<p align="left">
- <img src="./images/N187.jpeg" width="40%" height="40%"/> 
- <img src="./images/KA11.jpg" width="40%" height="40%"/>
-</p>
 
 ## Result
 
