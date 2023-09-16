@@ -2,9 +2,9 @@
 
 ## People
 
-* [Yeongjin Kim](https://github.com/youngjeanskr "김영진")
-* [Hyeonsu Kim](https://github.com/haen-su "김현수")
-* [Chaeri Lim](https://github.com/ch9eri "임채리")
+* [YoungJeansKR](https://github.com/youngjeanskr "김영진")
+* [haen-su](https://github.com/haen-su "김현수")
+* [ch9eri](https://github.com/ch9eri "임채리")
 
 ## Language / IDE
 
